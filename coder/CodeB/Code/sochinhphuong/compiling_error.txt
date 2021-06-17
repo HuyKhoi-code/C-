@@ -1,0 +1,4 @@
+D:\coder\Code\sochinhphuong\sochinhphuong.cpp: In function 'int main()':
+D:\coder\Code\sochinhphuong\sochinhphuong.cpp:13:5: error: expected ';' before '}' token
+     }
+     ^

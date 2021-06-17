@@ -1,0 +1,14 @@
+﻿  QuanliNhanVien.cpp
+d:\coder\visual studio 2017\oop thuc hanh\tuan4\bai1-nhanvien\bai1-nhanvien\quanlinhanvien.cpp(3): warning C4101: 'SoLuong': unreferenced local variable
+d:\coder\visual studio 2017\oop thuc hanh\tuan4\bai1-nhanvien\bai1-nhanvien\quanlinhanvien.cpp(40): error C3867: 'NhanVien::Luong': non-standard syntax; use '&' to create a pointer to member
+d:\coder\visual studio 2017\oop thuc hanh\tuan4\bai1-nhanvien\bai1-nhanvien\quanlinhanvien.cpp(40): error C2297: '+': illegal, right operand has type 'long (__thiscall NhanVien::* )(void)'
+d:\coder\visual studio 2017\oop thuc hanh\tuan4\bai1-nhanvien\bai1-nhanvien\quanlinhanvien.cpp(45): error C3867: 'NhanVien::Luong': non-standard syntax; use '&' to create a pointer to member
+d:\coder\visual studio 2017\oop thuc hanh\tuan4\bai1-nhanvien\bai1-nhanvien\quanlinhanvien.cpp(47): error C3867: 'NhanVien::Luong': non-standard syntax; use '&' to create a pointer to member
+d:\coder\visual studio 2017\oop thuc hanh\tuan4\bai1-nhanvien\bai1-nhanvien\quanlinhanvien.cpp(47): error C2446: '>': no conversion from 'int' to 'long (__thiscall NhanVien::* )(void)'
+  d:\coder\visual studio 2017\oop thuc hanh\tuan4\bai1-nhanvien\bai1-nhanvien\quanlinhanvien.cpp(47): note: There are no conversions from integral values to pointer-to-member values
+d:\coder\visual studio 2017\oop thuc hanh\tuan4\bai1-nhanvien\bai1-nhanvien\quanlinhanvien.cpp(48): error C3867: 'NhanVien::Luong': non-standard syntax; use '&' to create a pointer to member
+d:\coder\visual studio 2017\oop thuc hanh\tuan4\bai1-nhanvien\bai1-nhanvien\quanlinhanvien.cpp(48): error C2440: '=': cannot convert from 'long (__thiscall NhanVien::* )(void)' to 'int'
+  d:\coder\visual studio 2017\oop thuc hanh\tuan4\bai1-nhanvien\bai1-nhanvien\quanlinhanvien.cpp(48): note: There is no context in which this conversion is possible
+d:\coder\visual studio 2017\oop thuc hanh\tuan4\bai1-nhanvien\bai1-nhanvien\quanlinhanvien.cpp(51): error C3867: 'NhanVien::Luong': non-standard syntax; use '&' to create a pointer to member
+d:\coder\visual studio 2017\oop thuc hanh\tuan4\bai1-nhanvien\bai1-nhanvien\quanlinhanvien.cpp(51): error C2446: '==': no conversion from 'int' to 'long (__thiscall NhanVien::* )(void)'
+  d:\coder\visual studio 2017\oop thuc hanh\tuan4\bai1-nhanvien\bai1-nhanvien\quanlinhanvien.cpp(51): note: There are no conversions from integral values to pointer-to-member values

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\coder\visual studio 2017\on tap giua ki\bai1\stack\stack\source.cpp(23): warning C4715: 'CreateNode': not all control paths return a value
+  stack.vcxproj -> D:\coder\visual studio 2017\on tap giua ki\bai1\stack\Debug\stack.exe

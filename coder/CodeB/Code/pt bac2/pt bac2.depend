@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538057582 source:d:\code\pt bac2\pt bac2.cpp
+	<iostream>
+	<math.h>
+

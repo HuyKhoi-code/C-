@@ -1,0 +1,3 @@
+﻿  DaThuc1.cpp
+d:\coder\visual studio 2017\oop\da thuc bac1\da thuc bac1\dathuc1.cpp(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  da thuc bac1.vcxproj -> D:\coder\visual studio 2017\oop\da thuc bac1\Debug\da thuc bac1.exe

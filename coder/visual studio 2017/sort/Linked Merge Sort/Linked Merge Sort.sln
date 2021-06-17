@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linked Merge Sort", "Linked Merge Sort\Linked Merge Sort.vcxproj", "{F78F017E-3736-406D-98BF-C8CA3EEC1F9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78F017E-3736-406D-98BF-C8CA3EEC1F9E}.Debug|x64.ActiveCfg = Debug|x64
+		{F78F017E-3736-406D-98BF-C8CA3EEC1F9E}.Debug|x64.Build.0 = Debug|x64
+		{F78F017E-3736-406D-98BF-C8CA3EEC1F9E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F78F017E-3736-406D-98BF-C8CA3EEC1F9E}.Debug|x86.Build.0 = Debug|Win32
+		{F78F017E-3736-406D-98BF-C8CA3EEC1F9E}.Release|x64.ActiveCfg = Release|x64
+		{F78F017E-3736-406D-98BF-C8CA3EEC1F9E}.Release|x64.Build.0 = Release|x64
+		{F78F017E-3736-406D-98BF-C8CA3EEC1F9E}.Release|x86.ActiveCfg = Release|Win32
+		{F78F017E-3736-406D-98BF-C8CA3EEC1F9E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F811C797-1B07-4C83-9881-0901FB0359D8}
+	EndGlobalSection
+EndGlobal

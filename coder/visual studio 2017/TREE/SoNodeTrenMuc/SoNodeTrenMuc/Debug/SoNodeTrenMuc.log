@@ -1,0 +1,13 @@
+﻿  Source.cpp
+d:\coder\visual studio 2017\tree\sonodetrenmuc\sonodetrenmuc\source.cpp(44): error C2660: 'NumberOfLevel': function does not take 2 arguments
+  d:\coder\visual studio 2017\tree\sonodetrenmuc\sonodetrenmuc\source.cpp(43): note: see declaration of 'NumberOfLevel'
+d:\coder\visual studio 2017\tree\sonodetrenmuc\sonodetrenmuc\source.cpp(45): error C2082: redefinition of formal parameter 'dem'
+d:\coder\visual studio 2017\tree\sonodetrenmuc\sonodetrenmuc\source.cpp(47): error C2146: syntax error: missing ';' before identifier 'dem'
+d:\coder\visual studio 2017\tree\sonodetrenmuc\sonodetrenmuc\source.cpp(46): warning C4553: '==': result of expression not used; did you intend '='?
+d:\coder\visual studio 2017\tree\sonodetrenmuc\sonodetrenmuc\source.cpp(47): error C2429: language feature 'init-statements in if/switch' requires compiler flag '/std:c++17'
+d:\coder\visual studio 2017\tree\sonodetrenmuc\sonodetrenmuc\source.cpp(47): error C2059: syntax error: ';'
+d:\coder\visual studio 2017\tree\sonodetrenmuc\sonodetrenmuc\source.cpp(48): error C2660: 'NumberOfLevel': function does not take 2 arguments
+  d:\coder\visual studio 2017\tree\sonodetrenmuc\sonodetrenmuc\source.cpp(43): note: see declaration of 'NumberOfLevel'
+d:\coder\visual studio 2017\tree\sonodetrenmuc\sonodetrenmuc\source.cpp(49): error C2143: syntax error: missing ';' before 'return'
+d:\coder\visual studio 2017\tree\sonodetrenmuc\sonodetrenmuc\source.cpp(49): error C2562: 'NumberOfLevel': 'void' function returning a value
+  d:\coder\visual studio 2017\tree\sonodetrenmuc\sonodetrenmuc\source.cpp(43): note: see declaration of 'NumberOfLevel'

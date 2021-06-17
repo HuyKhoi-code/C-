@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538623430 source:d:\kh\ucln\ucln.cpp
+	<iostream>
+	<math.h>
+
+1538624260 source:d:\code\ucln\ucln.cpp
+	<iostream>
+

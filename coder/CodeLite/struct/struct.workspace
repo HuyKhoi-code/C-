@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="struct" Database="" Version="10.0.0">
+  <Project Name="sinhvien" Path="sinhvien/sinhvien.project" Active="No"/>
+  <Project Name="sotietkiem" Path="sotietkiem/sotietkiem.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="sinhvien" ConfigName="Debug"/>
+      <Project Name="sotietkiem" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="sinhvien" ConfigName="Release"/>
+      <Project Name="sotietkiem" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

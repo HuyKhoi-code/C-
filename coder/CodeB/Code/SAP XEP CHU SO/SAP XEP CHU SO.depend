@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536826419 source:d:\code\sap xep chu so\sap xep.cpp
+	<iostream>
+	<math.h>
+
